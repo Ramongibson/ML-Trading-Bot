@@ -1,0 +1,24 @@
+2024-02-06 21:11:46 - INFO - Running in resume mode
+2024-02-06 21:11:46 - INFO - Updating data...
+2024-02-06 21:11:46 - INFO - Provided start_date: 2019-01-25T00:00:00Z, end_date: 2024-02-07T03:11:46Z
+2024-02-06 21:11:46 - INFO - since <class 'int'>: 1548374400000
+2024-02-06 21:11:46 - INFO - end_timestamp <class 'int'>: 1707275506000
+2024-02-06 21:11:53 - WARNING - No OHLCV data fetched for the specified date range at timestamp 1707275460001.
+2024-02-06 21:12:19 - INFO - Data updated successfully.
+2024-02-06 21:12:19 - INFO - Model loaded successfully from trained_model_2019-01-25_BTC_USDT.h5
+2024-02-06 21:16:19 - INFO - Replay memory loaded successfully from replay_memory_2019-01-25_BTC_USDT.json
+2024-02-06 21:16:23 - INFO - Agent reset successfully.
+2024-02-06 21:16:23 - INFO - Resuming training
+2024-02-06 21:16:23 - INFO - Starting training...
+2024-02-09 17:05:29 - INFO - Epochs: 3
+2024-02-09 17:05:29 - INFO - Final Loss: 494115586310144.0
+2024-02-09 17:05:29 - INFO - Episode: 1/10
+2024-02-09 17:05:29 - INFO - Model saved as: trained_model_2019-01-25_BTC_USDT.h5
+2024-02-13 01:50:16 - INFO - Epochs: 3
+2024-02-13 01:50:16 - INFO - Final Loss: 298076837249024.0
+2024-02-13 01:50:16 - INFO - Episode: 2/10
+2024-02-13 01:50:17 - INFO - Model saved as: trained_model_2019-01-25_BTC_USDT.h5
+2024-02-16 00:11:27 - INFO - Epochs: 3
+2024-02-16 00:11:27 - INFO - Final Loss: 177893367873536.0
+2024-02-16 00:11:27 - INFO - Episode: 3/10
+2024-02-16 00:11:27 - INFO - Model saved as: trained_model_2019-01-25_BTC_USDT.h5

@@ -1,0 +1,9 @@
+ccxt
+numpy
+sklearn
+keras
+jsonpickle
+joblib
+tensorflow
+optuna
+urllib3

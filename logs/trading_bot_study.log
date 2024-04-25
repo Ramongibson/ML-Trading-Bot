@@ -1,0 +1,116 @@
+2023-12-27 21:03:38 - INFO - Running in study mode
+2023-12-27 21:03:38 - INFO - Updating data...
+2023-12-27 21:03:38 - INFO - Provided start_date: 2023-12-25T00:00:00Z, end_date: 2023-12-28T03:03:38Z
+2023-12-27 21:03:38 - INFO - since <class 'int'>: 1703462400000
+2023-12-27 21:03:38 - INFO - end_timestamp <class 'int'>: 1703732618000
+2023-12-27 21:03:38 - INFO - Data updated successfully.
+2023-12-27 21:03:39 - INFO - Replay memory cleared
+2023-12-27 21:03:39 - INFO - Agent reset successfully.
+2023-12-27 21:03:39 - INFO - Replay memory cleared
+2023-12-27 21:03:39 - INFO - Agent reset successfully.
+2023-12-27 21:03:39 - INFO - starting training...
+2023-12-27 22:17:34 - INFO - Trial 1 Total Reward: -778
+2023-12-27 22:17:34 - INFO - Initial Portfolio Balance: 203.19174399999997
+2023-12-27 22:17:34 - INFO - Initial Portfolio Value: 204.016
+2023-12-27 22:17:34 - INFO - Final Portfolio Balance: 203.45032896004966
+2023-12-27 22:17:35 - INFO - Replay memory cleared
+2023-12-27 22:17:35 - INFO - Agent reset successfully.
+2023-12-27 22:17:35 - INFO - starting training...
+2023-12-27 23:31:36 - INFO - Trial 2 Total Reward: -672
+2023-12-27 23:31:36 - INFO - Initial Portfolio Balance: 204.016
+2023-12-27 23:31:36 - INFO - Initial Portfolio Value: 204.016
+2023-12-27 23:31:36 - INFO - Final Portfolio Balance: 203.4698237323145
+2023-12-27 23:31:36 - INFO - Replay memory cleared
+2023-12-27 23:31:36 - INFO - Agent reset successfully.
+2023-12-27 23:31:37 - INFO - starting training...
+2023-12-28 00:50:24 - INFO - Trial 3 Total Reward: -3231
+2023-12-28 00:50:24 - INFO - Initial Portfolio Balance: 204.016
+2023-12-28 00:50:24 - INFO - Initial Portfolio Value: 204.016
+2023-12-28 00:50:24 - INFO - Final Portfolio Balance: 202.641547780671
+2023-12-28 00:50:24 - INFO - Replay memory cleared
+2023-12-28 00:50:24 - INFO - Agent reset successfully.
+2023-12-28 00:50:25 - INFO - starting training...
+2023-12-28 01:30:56 - INFO - Trial 4 Total Reward: 2772
+2023-12-28 01:30:57 - INFO - Initial Portfolio Balance: 204.016
+2023-12-28 01:30:57 - INFO - Initial Portfolio Value: 204.016
+2023-12-28 01:30:57 - INFO - Final Portfolio Balance: 205.0781850278093
+2023-12-28 01:30:57 - INFO - Replay memory cleared
+2023-12-28 01:30:57 - INFO - Agent reset successfully.
+2023-12-28 01:30:58 - INFO - starting training...
+2023-12-28 02:18:44 - INFO - Trial 5 Total Reward: -2482
+2023-12-28 02:18:44 - INFO - Initial Portfolio Balance: 204.016
+2023-12-28 02:18:44 - INFO - Initial Portfolio Value: 204.016
+2023-12-28 02:18:44 - INFO - Final Portfolio Balance: 202.04470639461297
+2023-12-28 02:18:44 - INFO - Replay memory cleared
+2023-12-28 02:18:44 - INFO - Agent reset successfully.
+2023-12-28 02:18:44 - INFO - starting training...
+2023-12-28 03:40:07 - INFO - Trial 6 Total Reward: 2458
+2023-12-28 03:40:07 - INFO - Initial Portfolio Balance: 204.016
+2023-12-28 03:40:07 - INFO - Initial Portfolio Value: 204.016
+2023-12-28 03:40:07 - INFO - Final Portfolio Balance: 205.32134881903914
+2023-12-28 03:40:07 - INFO - Replay memory cleared
+2023-12-28 03:40:07 - INFO - Agent reset successfully.
+2023-12-28 03:40:08 - INFO - starting training...
+2023-12-28 04:05:41 - INFO - Trial 7 Total Reward: -2979
+2023-12-28 04:05:41 - INFO - Initial Portfolio Balance: 204.016
+2023-12-28 04:05:41 - INFO - Initial Portfolio Value: 204.016
+2023-12-28 04:05:41 - INFO - Final Portfolio Balance: 203.11310079870023
+2023-12-28 04:05:41 - INFO - Replay memory cleared
+2023-12-28 04:05:41 - INFO - Agent reset successfully.
+2023-12-28 04:05:42 - INFO - starting training...
+2023-12-28 09:08:43 - INFO - Trial 8 Total Reward: -95
+2023-12-28 09:08:44 - INFO - Initial Portfolio Balance: 204.016
+2023-12-28 09:08:44 - INFO - Initial Portfolio Value: 204.016
+2023-12-28 09:08:44 - INFO - Final Portfolio Balance: 203.3865006057749
+2023-12-28 09:08:45 - INFO - Replay memory cleared
+2023-12-28 09:08:45 - INFO - Agent reset successfully.
+2023-12-28 09:08:45 - INFO - starting training...
+2023-12-28 10:24:03 - INFO - Trial 9 Total Reward: -1424
+2023-12-28 10:24:03 - INFO - Initial Portfolio Balance: 204.016
+2023-12-28 10:24:03 - INFO - Initial Portfolio Value: 204.016
+2023-12-28 10:24:03 - INFO - Final Portfolio Balance: 202.46289786842428
+2023-12-28 10:24:03 - INFO - Replay memory cleared
+2023-12-28 10:24:03 - INFO - Agent reset successfully.
+2023-12-28 10:24:03 - INFO - starting training...
+2023-12-28 10:36:01 - INFO - Trial 10 Total Reward: 3031
+2023-12-28 10:36:01 - INFO - Initial Portfolio Balance: 204.016
+2023-12-28 10:36:01 - INFO - Initial Portfolio Value: 204.016
+2023-12-28 10:36:01 - INFO - Final Portfolio Balance: 206.67913090899515
+2023-12-28 10:36:01 - INFO - Replay memory cleared
+2023-12-28 10:36:01 - INFO - Agent reset successfully.
+2023-12-28 10:36:01 - INFO - starting training...
+2023-12-28 12:41:12 - INFO - Trial 11 Total Reward: 834
+2023-12-28 12:41:13 - INFO - Initial Portfolio Balance: 204.016
+2023-12-28 12:41:13 - INFO - Initial Portfolio Value: 204.016
+2023-12-28 12:41:13 - INFO - Final Portfolio Balance: 204.99422665937357
+2023-12-28 12:41:14 - INFO - Replay memory cleared
+2023-12-28 12:41:14 - INFO - Agent reset successfully.
+2023-12-28 12:41:15 - INFO - starting training...
+2023-12-28 12:54:43 - INFO - Trial 12 Total Reward: -546
+2023-12-28 12:54:43 - INFO - Initial Portfolio Balance: 204.016
+2023-12-28 12:54:43 - INFO - Initial Portfolio Value: 204.016
+2023-12-28 12:54:43 - INFO - Final Portfolio Balance: 202.9642987421216
+2023-12-28 12:54:43 - INFO - Replay memory cleared
+2023-12-28 12:54:43 - INFO - Agent reset successfully.
+2023-12-28 12:54:43 - INFO - starting training...
+2023-12-28 13:06:07 - INFO - Trial 13 Total Reward: -412
+2023-12-28 13:06:07 - INFO - Initial Portfolio Balance: 204.016
+2023-12-28 13:06:07 - INFO - Initial Portfolio Value: 204.016
+2023-12-28 13:06:07 - INFO - Final Portfolio Balance: 201.89342751198842
+2023-12-28 13:06:08 - INFO - Replay memory cleared
+2023-12-28 13:06:08 - INFO - Agent reset successfully.
+2023-12-28 13:06:08 - INFO - starting training...
+2023-12-28 13:19:00 - INFO - Trial 14 Total Reward: -1859
+2023-12-28 13:19:00 - INFO - Initial Portfolio Balance: 204.016
+2023-12-28 13:19:00 - INFO - Initial Portfolio Value: 204.016
+2023-12-28 13:19:00 - INFO - Final Portfolio Balance: 201.6242058043695
+2023-12-28 13:19:01 - INFO - Replay memory cleared
+2023-12-28 13:19:01 - INFO - Agent reset successfully.
+2023-12-28 13:19:01 - INFO - starting training...
+2023-12-28 13:30:16 - INFO - Trial 15 Total Reward: 336
+2023-12-28 13:30:16 - INFO - Initial Portfolio Balance: 204.016
+2023-12-28 13:30:16 - INFO - Initial Portfolio Value: 204.016
+2023-12-28 13:30:16 - INFO - Final Portfolio Balance: 202.3504782581572
+2023-12-28 13:30:17 - INFO - Replay memory cleared
+2023-12-28 13:30:17 - INFO - Agent reset successfully.
+2023-12-28 13:30:17 - INFO - starting training...
